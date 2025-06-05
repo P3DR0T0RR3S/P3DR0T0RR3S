@@ -25,5 +25,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HenriqueThz}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{P3DR0T0RR3S
+}/count.svg" /></p> 
 <br></div>
